@@ -71,13 +71,13 @@ garbageTruck.dumpGarbage();
 garbageTruck.stop();
  
 //  3)
-//  Noun: guitarist 
-//  action 1: play a chord
-guitarist.playChord();
-//  action 2: make noise with pedals 
-guitarist.makeNoise();
-//  action 3: sing harmonies 
-guitarist.singHarmonies();
+//  Noun: washing machine
+//  action 1: wash dishes
+washingMachine.washDish();
+//  action 2: drying dishes
+washingMachine.dryDish();
+//  action 3: sanitizeDish 
+washingMachine.sanitizeDish();
 
 //  4)
 //  Noun: lion
