@@ -42,7 +42,7 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
 
 
 //  example)
-//  Noun:       arm                     // 1)
+//  Noun:    arm                     // 1)
 //  action 1:   the arm extends         // 2)
 arm.extend();                           // 3)
 //  action 2:   the arm flexes          // 2)
@@ -51,85 +51,96 @@ arm.flex();                             // 3)
 arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
-//  1)
-//  Noun:
-//  action 1:
+//  1) 
+//  Noun: tape recorder
+//  action 1: play tape half speed
+tapeRecorder.playFullSpeed();
+//  action 2: change tape direction
+tapeRecorder.changeTapeDirection();
+//  action 3: record input
+tapeRecorder.record();
 
-//  action 2:
-
-//  action 3:
  
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: garbage truck
+//  action 1: crushing trash
+garbageTruck.crushTrash();
+//  action 2: dumping trash 
+garbageTruck.dumpGarbage();
+//  action 3: stoping  
+garbageTruck.stop();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: washing machine
+//  action 1: wash dishes
+washingMachine.washDish();
+//  action 2: drying dishes
+washingMachine.dryDish();
+//  action 3: sanitizeDish 
+washingMachine.sanitizeDish();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: lion
+//  action 1: lion hunts prey
+lion.huntPrey();
+//  action 2:lion roaring
+lion.roar();
+//  action 3: lion needs to hide in the bush
+lion.hide(); 
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: yeast 
+//  action 1: turns sugar into alcohol
+yeast.sugarToAlchohol();
+//  action 2: yeast growing 
+yeast.grow();
+//  action 3: creates carbon dioxide
+yeast.createCarbonDioxide();
  
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  6) 
+//  Noun: priest
+//  action 1: performe rites 
+priest.performRites();
+//  action 2: celebrates daily Mass
+priest.celebrateMass();
+//  action 3: performs a funerals
+priest.performFuneral();
  
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: boss
+//  action 1: boss providing feedbacks
+boss.feedback();
+//  action 2: boss delegate responsibility
+boss.giveOrders();
+//  action 3: boss provide employees with resources
+boss.provideResources();
  
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: fan
+//  action 1: create air flow 
+fan.airFlow();
+//  action 2: oscillate right and left
+fan.oscillate();
+//  action 3: fan spin faster
+fan.spinFaster();
  
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: camp fire
+//  action 1: create heat
+fire.releaseHeat();
+//  action 2: fire light up campsite
+fire.lightUp();
+//  action 3: fire burning wood
+fire.burnWood();
  
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: bartender
+//  action 1: serves drinks.
+bartender.serveDrink();
+//  action 2:  bartender counts cash
+bartender.countCash();
+//  action 3: stops fights
+bartender.stopFight();
  
 
 
